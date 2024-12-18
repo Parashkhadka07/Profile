@@ -1,6 +1,6 @@
 import React from "react";
 
-import Navbar from "./Components/Navbar/navbar";
+import Navbar from "./Components/Navbar/Navbar";
 import Body1 from "./Components/Body/Body1";
 import About from "./Components/About/About";
 import Contact from "./Components/Contact/Contact";
